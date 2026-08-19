@@ -17,7 +17,7 @@
   --apex-disabled-background-color: #d3d3d3;
   --apex-disabled-foreground-color: #a9a9a9;
 
-  --apex-border-color: var(--apex-background-color);
+  --apex-border-color: #d3d3d3;
 
   --apex-card-background-color: color-mix(in srgb, var(--apex-background-color) 10%, #FFFFFF);
   --apex-primary-hover-color: color-mix(in srgb, var(--apex-primary-background-color) 90%, #000000);
