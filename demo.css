@@ -3,23 +3,23 @@
   --apex-foreground-color: #003247;
 
   --apex-primary-background-color: #15616d; 
-  --apex-primary-foreground-color: white;
+  --apex-primary-foreground-color: #FFFFFF;
 
   --apex-secondary-background-color: #008281;
-  --apex-secondary-foreground-color: white;
+  --apex-secondary-foreground-color: #FFFFFF;
 
   --apex-tertiary-background-color: #008e7a;
-  --apex-tertiary-foreground-color: white;
+  --apex-tertiary-foreground-color: #FFFFFF;
 
   --apex-accent-background-color: #fbab18;
-  --apex-accent-foreground-color: white;
+  --apex-accent-foreground-color: #FFFFFF;
 
-  --apex-disabled-background-color: var(--lightgray);
-  --apex-disabled-foreground-color: var(--darkgray);
+  --apex-disabled-background-color: #d3d3d3;
+  --apex-disabled-foreground-color: #a9a9a9;
 
   --apex-border-color: var(--apex-background-color);
 
-  --apex-card-background-color: color-mix(in srgb, var(--apex-background-color) 10%, white);
-  --apex-primary-hover-color: color-mix(in srgb, var(--apex-primary-background-color) 90%, black);
-  --apex-secondary-hover-color: color-mix(in srgb, var(--apex-secondary-background-color) 90%, black);
+  --apex-card-background-color: color-mix(in srgb, var(--apex-background-color) 10%, #FFFFFF);
+  --apex-primary-hover-color: color-mix(in srgb, var(--apex-primary-background-color) 90%, #000000);
+  --apex-secondary-hover-color: color-mix(in srgb, var(--apex-secondary-background-color) 90%, #000000);
 }
