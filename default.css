@@ -8,9 +8,16 @@
   --apex-secondary-background-color: #00AE9D;
   --apex-secondary-foreground-color: white;
 
-  --apex-disabled-background-color: var(--lightgray);
-  --apex-disabled-foreground-color: var(--darkgray);
+  --apex-tertiary-background-color: #008e7a;
+  --apex-tertiary-foreground-color: #FFFFFF;
 
+  --apex-accent-background-color: #fbab18;
+  --apex-accent-foreground-color: #FFFFFF;
+
+  --apex-disabled-background-color: #d3d3d3;
+  --apex-disabled-foreground-color: #a9a9a9;
+
+  --apex-border-color: #d3d3d3;
 
   --apex-card-background-color: color-mix(in srgb, var(--apex-background-color) 10%, white);
   --apex-primary-hover-color: color-mix(in srgb, var(--apex-primary-background-color) 90%, black);
